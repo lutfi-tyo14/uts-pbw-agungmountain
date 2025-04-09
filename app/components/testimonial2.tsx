@@ -23,7 +23,7 @@ const Testimonial2 = () => {
 
         {/* Isi Testimoni */}
         <h1 className="text-[#D9EFDE] text-2xl md:text-3xl font-semibold leading-relaxed pl-10">
-        "I love the social networking aspect of TrailHive. It's great to connect with other hikers and bikers and plan group events together."
+        I love the social networking aspect of TrailHive. It's great to connect with other hikers and bikers and plan group events together.
                 </h1>
 
         {/* Nama */}
