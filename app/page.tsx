@@ -8,6 +8,7 @@ import Footer from "./components/footer";
 
 export default function Home() {
   return (
+    
     <main className="bg-[#232E26] min-h-screen scroll-smooth">
     <Navbar />
    <Hero />
