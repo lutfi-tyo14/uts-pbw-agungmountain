@@ -22,9 +22,9 @@ const Testimonial2 = () => {
         </p>
 
         {/* Isi Testimoni */}
-        <blockquote className="text-[#D9EFDE] text-2xl md:text-3xl font-semibold leading-relaxed pl-10">
+        <h1 className="text-[#D9EFDE] text-2xl md:text-3xl font-semibold leading-relaxed pl-10">
         "I love the social networking aspect of TrailHive. It's great to connect with other hikers and bikers and plan group events together."
-                </blockquote>
+                </h1>
 
         {/* Nama */}
         <p className="mt-6 text-xl font-semibold text-[#D9EFDE] pl-10">
