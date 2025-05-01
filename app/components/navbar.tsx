@@ -6,7 +6,7 @@ import Menu from "./menu"
 export default function Navbar() {
   return (
 
-    <nav className="container mx-auto py-4 px-4 flex items-center  justify-between bg-[#D9EFDE] rounded-b-4xl">
+    <nav className="mx-auto py-4 px-4 flex items-center  justify-between bg-[#D9EFDE] rounded-b-4xl">
       <div className="flex items-center space-x-2 pl-10">
         <Mountain className=" h-5 w-5 text-[#2a3a2a]" />
         <span className=" leading-tight ml-1 font-semibold text-[#2a3a2a]">Agung Mountain</span>
